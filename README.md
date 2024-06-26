@@ -10,11 +10,13 @@ to provide real-time insights.
 
 > Shared actionalbe insights with stakeholders based on dashboard findings to support decision-making processes.
 
-*Insights based on the dashboard:
+###Insights based on the dashboard:
+
 --------WoW(Week-on-Week) change:
 • Revenue increased by 28.8%,
 • Total Transaction Amt & Count increased by xx% & xx%
 • Customer count increased by xx%
+
 --------Overview YTD(Year-to-date):
 • Overall revenue is 57M
 • Total interest is 8M
