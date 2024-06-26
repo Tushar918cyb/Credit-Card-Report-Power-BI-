@@ -1,5 +1,4 @@
-## Credit-Card-Report-Power-BI
-## Credit Card Financial Dashboard using Power Bi
+#Credit Card Financial Dashboard using Power Bi
 
 * Datasets used where of Customer Details and Credit card transactions.
 
@@ -9,6 +8,8 @@ to provide real-time insights.
 > Streamlined data processing & analysis to monitor key performance metrics and trends.
 
 > Shared actionalbe insights with stakeholders based on dashboard findings to support decision-making processes.
+
+> cc_add.csv and cust_add.csv is the additional data that got collected after week 52. 
 
 ###Insights based on the dashboard:
 
